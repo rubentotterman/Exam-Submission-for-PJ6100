@@ -54,6 +54,6 @@ Ethical Considerations
 
 Included File
 
-- 📄 `Eksamensbesvarelse.pdf` – Full exam document (in Norwegian)
+- 📄 [`Eksamensbesvarelse.pdf`](https://github.com/rubentotterman/Exam-Submission-for-PJ6100/blob/main/Eksamensbesvarelse.pdf) – Full exam document (in Norwegian)
 
 This submission was completed as part of the academic program at Kristiania University College. The institution is not responsible for the methods, results, conclusions, or recommendations presented in this paper.
